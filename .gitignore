@@ -1,0 +1,5 @@
+# Ignore IDE/OS files at root
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
