@@ -59,7 +59,7 @@ A full-stack web application for managing employee data efficiently with Spring 
 
 Clone the repository:
 ```bash
-git clone https://github.com/Kvr-10/Employee-Management-System.git
+git clone https://github.com/Puneetas015/Employee-Management-System.git
 cd Employee-Management-System/backend
 ```
 ## Configure environment variables:
@@ -112,9 +112,4 @@ npm run dev
 | PUT    | /api/employees/{id}    | Update employee     |
 | DELETE | /api/employees/{id}    | Delete employee     |
 
-## Contact
-
-- **Email:** chamansinha9480@gmail.com
-- **Portfolio:** [Chaman Sinha](https://kvr-10.github.io)
-- **GitHub:** [@Kvr-10](https://github.com/Kvr-10)
 
